@@ -93,7 +93,7 @@ This repository is for educational purposes only and is not intended for commerc
 ---
 
 ## Contact
-For questions or issues, please contact the repository maintainer:
+For questions or issues, please contact the repository maintainers:
 
 Adam - adamghaida@cmu.edu
 
