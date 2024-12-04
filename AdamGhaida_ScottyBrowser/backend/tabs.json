@@ -1,0 +1,12 @@
+{
+  "tabs": [{
+  "name": "إعدادات البحث",
+  "url": "https://www.google.com/preferences?hl=ar&prev=https://www.google.com/search%3Fq%3Dsettings#tabVal=1"
+}, {
+  "name": "إعدا",
+  "url": "https://www.google.com/safesearch?utm_source=google&utm_medium=pref-page&hl=ar-QA&prev=https://www.google.com/preferences?hl%3Dar%26prev%3Dhttps://www.google.com/search%253Fq%253Dtintcar%252B3d%252Bworkshop&safe=&authuser=0&hcb=1"
+}, {
+  "name": "settings - بحث Google‏",
+  "url": "https://www.google.com/search?q=settings"
+}]
+}
