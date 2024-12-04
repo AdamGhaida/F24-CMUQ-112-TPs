@@ -99,4 +99,8 @@ Adam - adamghaida@cmu.edu
 
 Emu - eenkhbay@andrew.cmu.edu
 
+Sherkhan - sbakdaul@andrew.cmu.edu
+
+Rashid - rzb@andrew.cmu.edu
+
 Happy coding! 🎉
