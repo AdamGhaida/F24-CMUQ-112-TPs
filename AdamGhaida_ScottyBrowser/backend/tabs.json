@@ -1,12 +1,15 @@
 {
   "tabs": [{
-  "name": "إعدادات البحث",
-  "url": "https://www.google.com/preferences?hl=ar&prev=https://www.google.com/search%3Fq%3Dsettings#tabVal=1"
+  "name": "hello - بحث Google‏",
+  "url": "https://www.google.com/search?q=hello&sca_esv=28155c0739ebc10e&ei=zVVQZ9OUMdWs5NoPwPm0kAY&ved=0ahUKEwiTr46KmY6KAxVVFlkFHcA8DWIQ4dUDCA8&uact=5&oq=hello&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWhlbGxvSABQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAJgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp"
 }, {
   "name": "إعدا",
   "url": "https://www.google.com/safesearch?utm_source=google&utm_medium=pref-page&hl=ar-QA&prev=https://www.google.com/preferences?hl%3Dar%26prev%3Dhttps://www.google.com/search%253Fq%253Dtintcar%252B3d%252Bworkshop&safe=&authuser=0&hcb=1"
 }, {
   "name": "settings - بحث Google‏",
   "url": "https://www.google.com/search?q=settings"
+}, {
+  "name": "hello - بحث Google‏",
+  "url": "https://www.google.com/search?q=hello"
 }]
 }
