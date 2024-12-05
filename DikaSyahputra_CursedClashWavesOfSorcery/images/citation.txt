@@ -1,0 +1,14 @@
+Credits to Canva and Photopea for their collaborative features in making the game design and user interface and experience.
+
+Credits to Jujutsu Kaisen's author, Gege Akutami, and also the animation studio, Mappa Studios, for their amazing art for Jujutsu Kaisen manga and anime respectively, some of which are used within my game.
+
+Credits to Mind-Force from DeviantArt for the user interface for health, energy, awakening, and moves used for the game.
+https://www.deviantart.com/mind-force/art/Fantasy-UI-Stone-Health-Mana-Bar-566429279
+
+Punch image: https://fr.freepik.com/vecteurs-premium/symbole-du-poing-main-du-pixel_143959534.htm
+
+Dism image = https://foozlecc.itch.io/pixel-magic-sprite-effects
+
+Slash image = https://www.google.com/url?sa=i&url=https%3A%2F%2Fac-illust.com%2Fclip-art%2F24209983%2Fpixel-art-sword-slashing-illustration-2&psig=AOvVaw2eYeJkfr0KZRtOdayEcQYq&ust=1733321943321000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCXncfli4oDFQAAAAAdAAAAABAE
+
+Clash.png came from the Manga illustration drawn by Gege Akutami, the creator and author of Jujutsu Kaisen
