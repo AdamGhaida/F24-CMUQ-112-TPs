@@ -103,4 +103,6 @@ Sherkhan - sbakdaul@andrew.cmu.edu
 
 Rashid - rzb@andrew.cmu.edu
 
+Furqan - fsaid@andrew.cmu.edu
+
 Happy coding! 🎉
