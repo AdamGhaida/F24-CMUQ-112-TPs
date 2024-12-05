@@ -13,7 +13,7 @@ The repository is organized into individual folders for each student’s project
 ```
 /StudentName_ProjectName/
     README.md          # Description of the project
-    /src/              # Source code for the project
+    main.py            # Source code for the project (doesn't necessarily need to be called main.py)
     /assets/           # Images, videos, or other media related to the project
     demo.mp4           # (Optional) Demo video of the project
 ```
@@ -22,7 +22,7 @@ Example:
 ```
 /JohnDoe_FoodDeliverySimulator/
     README.md
-    /src/
+    /code/
         main.py
         utils.py
     /assets/
@@ -58,7 +58,7 @@ Example:
 
 2. Include the following in your project folder:
    - `README.md`: A brief explanation of your project (see template below).
-   - `/src/`: A folder containing all your source code.
+   - `/code/`: A folder containing all your source code.
    - `/assets/`: Any media files related to your project.
    - `demo.mp4` (Optional): A video demonstrating your project.
 
