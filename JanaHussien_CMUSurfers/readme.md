@@ -1,17 +1,8 @@
-Project Name: CMU Surfers
-Description:
-This project is a 3D runner game inspired by popular games like Subway Surfers
-and Temple Run. Players control a character running along three lanes, dodging trains, ramps,
-and other obstacles by switching lanes, jumping, or ducking. The goal is to achieve the highest
-possible score while avoiding collisions with obstacles.
-
-The player can go on top of trains as well and collect from these powerups: HoverBoard, Sneakers, ScoreBooster, CoinMagnet.
 # Project Name
 CMU Surfers
 
 ## Overview
-This project is a 3D runner game inspired by popular games like Subway Surfers
-and Temple Run. Players control a character running along three lanes, dodging trains, ramps,
+This project is a 3D runner game (heavily) inspired by popular games like Subway Surfers. Players control a character running along three lanes, dodging trains, ramps,
 and other obstacles by switching lanes, jumping, or ducking. The goal is to achieve the highest
 possible score while avoiding collisions with obstacles.
 
