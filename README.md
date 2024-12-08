@@ -8,14 +8,13 @@ Each project here represents the culmination of weeks of hard work, creativity, 
 
 ## Repository Structure
 
-The repository is organized into individual folders for each student’s project. Each folder follows this structure:
+The repository is organized into individual folders for each student’s project. Each folder MIGHT follow this structure:
 
 ```
 /StudentName_ProjectName/
     README.md          # Description of the project
-    main.py            # Source code for the project (doesn't necessarily need to be called main.py)
-    /assets/           # Images, videos, or other media related to the project
-    demo.mp4           # (Optional) Demo video of the project
+    assets/            # If needed, assets go here as well.
+    code files         # Project files go here
 ```
 
 Example:
@@ -58,9 +57,7 @@ Example:
 
 2. Include the following in your project folder:
    - `README.md`: A brief explanation of your project (see template below).
-   - `/code/`: A folder containing all your source code.
-   - `/assets/`: Any media files related to your project.
-   - `demo.mp4` (Optional): A video demonstrating your project.
+   - Project Files
 
 3. Submit a pull request to add your project to the repository.
 
