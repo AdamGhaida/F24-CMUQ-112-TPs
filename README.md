@@ -59,7 +59,7 @@ Example:
    - `README.md`: A brief explanation of your project (see template below).
    - Project Files
 
-3. Submit a pull request to add your project to the repository.
+3. Submit a pull request to add your project to the repository. Here's a really useful video https://www.youtube.com/watch?v=nCKdihvneS0. 
 
 ### README Template for Projects
 ```markdown
