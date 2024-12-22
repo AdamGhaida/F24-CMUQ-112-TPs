@@ -1,0 +1,3 @@
+cmu-graphics
+pycryptodome
+pyperclip
