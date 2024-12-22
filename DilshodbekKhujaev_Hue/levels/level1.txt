@@ -1,0 +1,23 @@
+hero 60 60
+door 1475 200
+ground -300 -300 3000 300
+ground -300 1600 3000 300
+ground -300 -300 300 2200
+ground 2400 -300 300 2200
+spike 0 1600 240
+ground 0 200 300 150
+ground 300 300 550 50
+ground 850 200 150 300
+spike 300 300 55
+barrier 200 200 2 1
+barrier 350 250 1 1
+barrier 450 250 1 2
+barrier 550 250 1 1
+barrier 650 250 1 2
+barrier 750 250 1 1
+ground 1000 400 500 100
+ground 1400 200 200 300
+ground 1550 0 350 500
+block 1300 400 1 2
+block 1150 400 2 1
+block 1050 400 3 2
